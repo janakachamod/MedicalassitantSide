@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "428765790785",
+    "firebase_url": "https://medcare-64562-default-rtdb.firebaseio.com",
+    "project_id": "medcare-64562",
+    "storage_bucket": "medcare-64562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765790785:android:e41e887d3745e056663cc0",
+        "android_client_info": {
+          "package_name": "com.example.crebrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeDVnd_uOQaNskNgK6XHFgGK2l9cRO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765790785:android:eec8696562bca0d0663cc0",
+        "android_client_info": {
+          "package_name": "com.example.medcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeDVnd_uOQaNskNgK6XHFgGK2l9cRO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765790785:android:8380a5b30e02a10f663cc0",
+        "android_client_info": {
+          "package_name": "com.example.medicalsideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeDVnd_uOQaNskNgK6XHFgGK2l9cRO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765790785:android:14b22eaf79e15e3b663cc0",
+        "android_client_info": {
+          "package_name": "com.example.medtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeDVnd_uOQaNskNgK6XHFgGK2l9cRO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765790785:android:d5657702f047173a663cc0",
+        "android_client_info": {
+          "package_name": "com.example.newappmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeDVnd_uOQaNskNgK6XHFgGK2l9cRO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
