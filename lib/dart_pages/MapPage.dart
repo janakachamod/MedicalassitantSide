@@ -101,7 +101,7 @@ class _MapPageState extends State<MapPage> {
           ),
           ElevatedButton(
             onPressed: _updateLocation,
-            child: Text('Update Location'),
+            child: Text('Navigate to Location'),
           ),
           Expanded(
             child: GoogleMap(

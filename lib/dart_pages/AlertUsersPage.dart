@@ -164,7 +164,7 @@ class _AlertUsersPageState extends State<AlertUsersPage> {
                           user['name'] as String,
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
-                        subtitle: Text(user['email'] as String),
+                        subtitle: Text(user['email'].split('@')[0]),
                         trailing: Column(
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
